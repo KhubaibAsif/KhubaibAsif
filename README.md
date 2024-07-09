@@ -42,7 +42,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=KhubaibAsif&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhubaibAsif&theme=dracula&hide_border=false)<br/>
 
-<br>
 </p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhubaibAsif&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KhubaibAsif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhubaibAsif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>  -->
