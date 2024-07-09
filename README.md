@@ -7,8 +7,12 @@
 💬 Ask me about HTML, CSS, JavaScript <br>
 📫 How to reach me: Khubaiblakhpat@outlook.com
 <br>
+<hr/>
+<br>
+<br>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KhubaibAsif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=usman-rizwan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr/>
 <br>
