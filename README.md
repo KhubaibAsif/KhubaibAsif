@@ -31,7 +31,7 @@
   <a href="https://www.facebook.com/khubaiblakhpat?mibextid=JRoKGi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/03213865115" target="_blank">
+  <a href="https://wa.me/923865115" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
   <a href="www.linkedin.com/in/
