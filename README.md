@@ -87,4 +87,4 @@ khubaib-lakhpat-53399830b
 
  ---
 
-[![](https://visitcount.itsvg.in/api?id=KhubaibAsif&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KhubaibAsif&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
