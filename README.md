@@ -7,6 +7,12 @@
 💬 Ask me about HTML, CSS, JavaScript <br>
 📫 How to reach me: Khubaiblakhpat@outlook.com
 <br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KhubaibAsif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<hr/>
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/Khubaib lakhpat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Khubaib Lakhpat on Facebook" height="30" width="40" /></a>
