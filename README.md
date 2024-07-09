@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Khubaib Asif</h1>
 <h3 align="center">A Passionate Front-end Developer from Karachi, Pakistan</h3>
-<img align="right" width="300px" height= "250px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation">
+<img align="right" width="300px" height= "180px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation">
 <p align="left"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 🌱 I’m currently learning web development <br>
 👨‍💻 All of my projects are available at my GitHub repositories At (https://github.com/KhubaibAsif?tab=repositories) <br>
