@@ -11,8 +11,6 @@
 👨‍💻 All of my projects are available at my GitHub repositories At (https://github.com/KhubaibAsif?tab=repositories) <br>
 💬 Ask me about HTML, CSS, JavaScript <br>
 📫 How to reach me: Khubaiblakhpat@outlook.com
-<br>
-<br>
 
 <hr/>
 <br>
